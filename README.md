@@ -10,3 +10,9 @@
 
 <img width="1280" alt="image" src="https://github.com/LDLINGLINGLING/rag-of-law/assets/47373076/3c13cd5e-95af-45e1-9d38-2134dc115c86">
 
+<img width="1280" alt="image" src="https://github.com/LDLINGLINGLING/rag-of-law/assets/47373076/8c50a74e-0d04-4cac-918c-146f8f87e13b">
+
+<img width="1280" alt="image" src="https://github.com/LDLINGLINGLING/rag-of-law/assets/47373076/d28bd824-c184-41cb-b729-f0399a68449b">
+
+
+
