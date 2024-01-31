@@ -1,5 +1,5 @@
 # rag-of-law
-对法律问题进行了query识别分类到法律库，通过训练双塔模型进行召回，使用基于规则的方式精排，最终使用qwen14b进行了精排
+对法律问题进行了query识别的bert分类到法律种类库，通过训练双塔模型进行召回，使用基于规则的方式精排，最终使用qwen14b进行了基于知识库的问答
 
 具体效果如下：
 <img width="1280" alt="image" src="https://github.com/LDLINGLINGLING/rag-of-law/assets/47373076/31317e06-ff16-4daf-a440-ef0dff186c19">
